@@ -2,7 +2,7 @@
     background-color: #890000;
 }
 .black{
-    background-color: black;
+   
 }
 .container{
   
@@ -22,7 +22,7 @@
   
     padding: 0%;
     margin: 0%;
-    background-color:black;
+   
 }
 .container2{
     
@@ -79,11 +79,13 @@ p{
 
 }
 .lap{
-    height: 300px;
+    margin-top: 29px;
+    margin-left: 15%;
+    height: 200px;
     border-radius: 10px;
 }
 .prom{
-    grid-column: span 2;
+    
 }
 .crim{
     height: 300px;
@@ -91,15 +93,16 @@ grid-area: 2/ 1 ;
 
 }
 .crit{
-    height: 255px;
+    margin-left: 15%;
+    height: 180px;
     border-radius: 10px;
 }
 .cri{
-    grid-area:  2/ 2 / -1 / -1 ;
+    grid-area:  2/ 2 ;
 
 }
 .h4{
-    width: 45%;
+    width: 50%;
     
     
     font-family: serif;
